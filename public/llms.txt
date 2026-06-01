@@ -1,0 +1,112 @@
+# אתגר יומי — Generative Engine Optimization Map
+
+> An online IQ testing platform that allows users to measure their intelligence quotient through a structured quiz or test format. The site is focused on delivering a cognitive assessment experience digitally.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+רוצה לדעת עד כמה אתה חכם? פלטפורמת הבדיקות המקוונות המתקדמת ביותר בישראל מאפשרת לך למדוד את מנת המשכל שלך בדיוק מדעי. התחל את המבחן עכשיו!
+
+### תכונות
+https://example.com/features
+גלה את מגוון התכונות המתקדמות של פלטפורמת הלמידה והבדיקות המקוונות שלנו: מבחנים מותאמים אישית, ניתוח תוצאות מעמיק ודוחות חכמים שחושפים את הפוטנציאל האמיתי שלך.
+
+### אודות
+https://example.com/about
+אתגר יומי נולד מתוך חזון לשנות את עולם ההערכה הקוגניטיבית המקוונת. למד מי אנחנו, מה מניע אותנו ולמה אלפי משתמשים בוחרים בנו כדי לגלות את יכולות החשיבה האמיתיות שלהם.
+
+### צור קשר
+https://example.com/contact
+יש לך שאלה על מבחני המשכל המקוונים שלנו? צוות המומחים של אתגר יומי זמין עבורך. צור קשר עכשיו וקבל את כל המידע שאתה צריך כדי להתחיל את מסע גילוי האינטליגנציה שלך.
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה שנרשמת לקורס
+
+### Courses
+https://example.com/courses
+Browse all available courses.
+
+### Course Category
+https://example.com/category/:slug
+Browse courses in this category.
+
+### Course Detail
+https://example.com/courses/:slug
+Course details and curriculum.
+
+### Lesson
+https://example.com/lesson/:lessonId
+Lesson player.
+
+### My Learning
+https://example.com/my-learning
+Your enrolled courses and progress.
+
+### Certificate
+https://example.com/certificate/:code
+Verify a course completion certificate.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About אתגר יומי
+An online IQ testing platform that allows users to measure their intelligence quotient through a structured quiz or test format. The site is focused on delivering a cognitive assessment experience digitally.
+
+## Target Audience
+- צעירים מקצועיים מחפשי שיפור עצמי
+- הורים שמתעניינים בפיתוח ילדיהם
+- אנשי חינוך המעריכים תלמידים
+
+## Industry
+Education / Online Testing
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
