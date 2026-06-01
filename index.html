@@ -357,7 +357,7 @@
       <div class="search-results" id="mobile-search-results"></div>
     </div>
   
-<script>window.ZAPPY_WEBSITE_ID = "5650dbe0-e801-4e0c-ac25-de7c7373b4cb";window.ZAPPY_API_BASE = "https://api.zappy5.com";</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
+<script>window.ZAPPY_WEBSITE_ID = "5650dbe0-e801-4e0c-ac25-de7c7373b4cb";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? "https://api.zappy5.com" : "https://api.zappy5.com");</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
     <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
@@ -845,10 +845,10 @@
 </script>
   
   <main id="main">
-    <section data-band-index="0" class="index-hero-section" data-layout-spec="בית-hero" dir="rtl" data-hero-type="fullscreen-scrim">
+    <section data-band-index="0" class="index-hero-section" data-layout-spec="בית-hero" dir="rtl" data-hero-type="fullscreen-scrim" id="index-hero-section" style="margin-top: -134px !important; padding-top: 134px !important;">
   <!-- Background image layer -->
   <div class="index-hero-bg" aria-hidden="true">
-    <img loading="eager" fetchpriority="high" data-hero-bg="true" data-placeholder="index-hero-image-1" data-context="Abstract intelligence landscape for an IQ testing platform: deep indigo and violet atmospheric gradients blending into a topographic map with fine contour lines, subtle brain-network neural nodes glowing softly in the distance, cosmic depth with light particles, premium editorial mood, dark indigo-violet color palette, cinematic wide format" width="1440" height="900" src="/assets/site-index-hero-image-1.webp" alt="נוף אינטלקטואלי אבסטרקטי עם קווי טופוגרפיה וגרדיאנט אינדיגו-סגול">
+    <img loading="eager" fetchpriority="high" data-hero-bg="true" data-placeholder="index-hero-image-1" data-context="Abstract intelligence landscape for an IQ testing platform: deep indigo and violet atmospheric gradients blending into a topographic map with fine contour lines, subtle brain-network neural nodes glowing softly in the distance, cosmic depth with light particles, premium editorial mood, dark indigo-violet color palette, cinematic wide format" width="1440" height="900" src="/assets/site-index-hero-image-1.webp" alt="נוף אינטלקטואלי אבסטרקטי עם קווי טופוגרפיה וגרדיאנט אינדיגו-סגול" data-hero-background="true" data-element-type="image" data-element-id="img-1780309476545-19ssgsvbw">
   </div>
 
   <!-- Scrim overlay -->
@@ -878,9 +878,9 @@
   <div class="index-hero-container">
     <div class="index-hero-content">
       <!-- Label badge -->
-      <span class="index-hero-badge">בדיקת IQ מקצועית</span>
+      <p class="zappy-editable"><span class="index-hero-badge">בדיקת IQ מקצועית</span>
 
-      <!-- H1 headline -->
+      </p><!-- H1 headline -->
       <h1 class="index-hero-h1">מדוד את האינטליגנציה שלך — בדיוק מדעי</h1>
 
       <!-- H3 subtitle -->
@@ -888,13 +888,13 @@
 
       <!-- CTA buttons -->
       <div class="index-hero-ctas">
-        <a href="/contact" class="index-hero-btn-primary">
+        <a href="/contact" class="index-hero-btn-primary btn btn-primary" data-element-type="button" data-element-id="btn-1780309476527-iv8ytzxuo" data-native-element="true" style="outline: none; border-color: transparent !important; color: rgb(255, 255, 255) !important; background-color: transparent !important; background-image: linear-gradient(135deg, rgb(123, 79, 224), rgb(91, 61, 245)) !important;">
           <span>התחל את הבדיקה</span>
           <svg data-no-icon-edit="true" aria-hidden="true" width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M9 3L3 9L9 15" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
           </svg>
         </a>
-        <a href="/contact" class="index-hero-btn-secondary">איך מחשבים את הציון?</a>
+        <a href="/contact" class="index-hero-btn-secondary" data-element-type="button" data-element-id="btn-1780309476527-ukhg2w92a" data-native-element="true">איך מחשבים את הציון?</a>
       </div>
 
       <!-- Trust indicators -->
